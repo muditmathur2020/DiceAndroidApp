@@ -1,7 +1,7 @@
 # DiceAndroidApp
 ## Created using Kotlin 
 
-[APK download link](https://drive.google.com/file/d/156UssIcB0AY2gFCi3QYjlLUW3eGLHUV-/view?usp=sharing)
+
 [Download APK](https://drive.google.com/file/d/156UssIcB0AY2gFCi3QYjlLUW3eGLHUV-/view?usp=sharing)
 
 
